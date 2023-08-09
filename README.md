@@ -1,8 +1,6 @@
 
 # **CodeSpectrum**
 
-
-
 <div align="center">
    <strong>CodeSpectrum</strong> -A platform to make your journey easy for your coding journey. <br>
   <br> <br>
@@ -69,7 +67,7 @@ We have also shared the interview and placement experiences of our seniors from 
 
 1. Clone the repository
 ```
-https://github.com/smitsekhadiaa/CodeSpectrum.git
+https://github.com/Krishna-13-cyber/CodeSpectrum.git
 
 ```
 To start the frontend user interface
