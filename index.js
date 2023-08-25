@@ -1,3 +1,4 @@
+
 const express = require('express');
 const app = express();
 const cors = require('cors');
@@ -40,9 +41,10 @@ mongoose.connect(url)
           res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
         })
       }
-io.socket.on("connection", (socket) => {
+io.sockets.on("connection", (socket) => {
     console.log(`User Connected: ${socket.id}`);
 
+io.on('connection',(socket)=>{
     socket.on("askingQuestion",(object)=>{
         console.log(object);
         const Model=new Question({
@@ -69,7 +71,6 @@ io.socket.on("connection", (socket) => {
             socket.emit("addedAnswerStatus",status);
         });
     });
-
     socket.on('signUpSubmit', (object) => {
         let Modal = new SignUpObject({
             Username: object.username,
@@ -131,10 +132,11 @@ io.socket.on("connection", (socket) => {
             })
     }
     )
-    socket.on("disconnect", () => {
-        console.log("User Disconnected", socket.id);
-    });
+    //socket.on("disconnect", () => {
+    //    console.log("User Disconnected", socket.id);
+    //});
+});
 });
 // server.listen(PORT, () => {
 //     console.log("Server Running.");
-// });
+// })

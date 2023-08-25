@@ -4,9 +4,9 @@
 <div align="center">
    <strong>CodeSpectrum</strong> -A platform to make your journey easy for your coding journey. <br>
   <br> <br>
-  <a href="https://github.com/smitsekhadiaa/CodeSpectrum/stargazers"><img alt="GitHub issues" src="https://img.shields.io/github/stars/smitsekhadiaa/CodeSpectrum"></a>
-  <a href="https://github.com/smitsekhadiaa/CodeSpectrum/network/members"><img alt="GitHub stars" src="https://img.shields.io/github/forks/smitsekhadiaa/CodeSpectrum"></a>
-  <a href="https://github.com/smitsekhadiaa/CodeSpectrum/issues"><img alt="GitHub contributors" src="https://img.shields.io/github/issues/smitsekhadiaa/CodeSpectrum"></a>
+  <a href="https://github.com/Krishna-13-cyber/CodeSpectrum/stargazers"><img alt="GitHub issues" src="https://img.shields.io/github/stars/Krishna-13-cyber/CodeSpectrum"></a>
+  <a href="https://github.com/Krishna-13-cyber/CodeSpectrum/network/members"><img alt="GitHub stars" src="https://img.shields.io/github/forks/Krishna-13-cyber/CodeSpectrum"></a>
+  <a href="https://github.com/Krishna-13-cyber/CodeSpectrum/issues"><img alt="GitHub contributors" src="https://img.shields.io/github/issues/Krishna-13-cyber/CodeSpectrum"></a>
    <img src="https://komarev.com/ghpvc/?username=CodeSpectrum&label=Project%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   
