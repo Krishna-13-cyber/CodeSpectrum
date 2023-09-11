@@ -21,7 +21,7 @@ function MainPage(props) {
                     </div>
                     <div>
                     <div style={{paddingTop:"17px"}}>
-                        <Link to="/Main" style={{ fontWeight: "bolder", color: "white", padding: "15px", fontSize: "25px",textDecoration:"none"}}>CodeStack</Link>
+                        <Link to="/Main" style={{ fontWeight: "bolder", color: "white", padding: "15px", fontSize: "25px",textDecoration:"none"}}>codespectrum</Link>
                         </div>
                     </div>
                     <div style={{ paddingTop: "22px", fontWeight: "5px", paddingRight: "10px" }}>

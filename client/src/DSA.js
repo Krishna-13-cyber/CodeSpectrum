@@ -1,11 +1,4 @@
 import React from "react";
-<<<<<<< HEAD
-function DSA(){
-    return(
-        <div className="DSA">
-            <h1>DSA</h1>
-        </div>
-=======
 import UserContext from "./usercontext";
 import { useContext } from "react";
 import AuthRequired from "./AuthRequired";
@@ -45,7 +38,7 @@ function DSA() {
                         </div>
                         <div class="alert alert-success" role="alert">
                             <h4 class="alert-heading">DSA 450</h4>
-                            <p><a href="https://github.com/Jigsaw-23122002/450-DSA-NOTES" target="_blank">DSA Programs Written By Harsh,Neel,Smit & Dhruv</a></p>
+                            <p><a href="https://github.com/Jigsaw-23122002/450-DSA-NOTES" target="_blank">DSA Programs Written By Harsh,Neel,Smit,Dhruv & Krishna</a></p>
                         </div>
                         <div>
                         </div>
@@ -58,7 +51,6 @@ function DSA() {
             </div>) : (
             <AuthRequired />
         )
->>>>>>> eaeb3d7c6634c6bcd60d0279d189eb846cdb1892
     )
 }
 export default DSA;

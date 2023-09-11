@@ -55,9 +55,9 @@ function Home1() {
                     </div>
                     <div>
                         <div style={{paddingTop:"17px"}}>
-                        <Link to="/Main" style={{ fontWeight: "bolder", color: "white", padding: "15px", fontSize: "25px",textDecoration:"none"}}>CodeStack</Link>
+                        <Link to="/Main" style={{ fontWeight: "bolder", color: "white", padding: "15px", fontSize: "25px",textDecoration:"none"}}>codespectrum</Link>
                         </div>
-                        {/* <p style={{ fontWeight: "bolder", color: "white", padding: "15px",paddingTop:"18px", fontSize: "25px" }}>CodeStack</p> */}
+                        {/* <p style={{ fontWeight: "bolder", color: "white", padding: "15px",paddingTop:"18px", fontSize: "25px" }}>codespectrum</p> */}
                     </div>
                     <div style={{ paddingTop: "22px", fontWeight: "5px", paddingRight: "10px" }}>
                         <Link to="/Home" style={{ textDecoration: "none", fontWeight: "bold", color: "white", fontSize: "20px" }}>Home</Link>

@@ -9,9 +9,9 @@ function Main() {
                 </div>
                 <div>
                     <div style={{ paddingTop: "17px" }}>
-                        <Link to="/Main" style={{ fontWeight: "bolder", color: "white", padding: "15px", fontSize: "25px", textDecoration: "none" }}>CodeStack</Link>
+                        <Link to="/Main" style={{ fontWeight: "bolder", color: "white", padding: "15px", fontSize: "25px", textDecoration: "none" }}>codespectrum</Link>
                     </div>
-                    {/* <p style={{ fontWeight: "bolder", color: "white", padding: "15px",paddingTop:"18px", fontSize: "25px" }}>CodeStack</p> */}
+                    {/* <p style={{ fontWeight: "bolder", color: "white", padding: "15px",paddingTop:"18px", fontSize: "25px" }}>codespectrum</p> */}
                 </div>
                 <div style={{ paddingTop: "22px", fontWeight: "5px", paddingRight: "10px" }}>
                     <Link to="/Home" style={{ textDecoration: "none", fontWeight: "bold", color: "white", fontSize: "20px" }}>Home</Link>
@@ -43,7 +43,7 @@ function Main() {
                 </div>
             </div>
             <div style={{ color: "white", border: "1px solid white", margin: "20px", padding: "20px", backgroundColor: "rgba(15,15,15,0.7)", borderRadius: "5px" }}>
-                <h1 style={{ backgroundColor: "transparent" }}>CodeStack!</h1>
+                <h1 style={{ backgroundColor: "transparent" }}>codespectrum!</h1>
                 <hr style={{ backgroundColor: "grey" }} />
                 <p style={{}}>
                     The idea of our project is to make learning coding easy. The website contains the best possible links to the playlist of different topics. The website also contains QnA section separately where the learner can ask doubts which will be answered by any experienced one.
@@ -68,6 +68,7 @@ function Main() {
                     <li>Harsh Nag</li>
                     <li>Dhruv Kunjadiya</li>
                     <li>Smit Sekhadia</li>
+                    <li>Krishna Narayanan</li>
                 </div>
 
             </div>
